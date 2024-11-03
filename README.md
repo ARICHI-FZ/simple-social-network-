@@ -20,7 +20,7 @@ Le contrat a été déployé sur le réseau de test SepoliaETH en utilisant Remi
    - Création d’une communauté : `addCommunity("AI Geeks")`
    - Ajout de salles à la communauté : `addRoom("AI Geeks", "Blockchain")` et `addRoom("AI Geeks", "AI Innovations")`
    - Vérification de la duplication des communautés : une tentative d’ajout d’une communauté avec un nom déjà existant retourne une erreur.
-   ![Résultat de l'ajout de communautés](addCommunity.png)
+   ![Résultat de l'ajout de communautés](1.png)
 
 2. **Rejoindre des Salles** :
    - Utilisateurs rejoignant les salles : `joinRoom("AI Geeks", "Blockchain")`
