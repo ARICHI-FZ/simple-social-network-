@@ -56,7 +56,7 @@ Ce projet a permis de mettre en œuvre un mini réseau social décentralisé en 
 
 ## Installation
 
-1. Cloner le dépôt : `git clone https://github.com/votre-utilisateur/mini-reseau-social-decentralise.git`
+1. Cloner le dépôt : `git clone https://github.com/ARICHI-FZ/simple-social-network-.git`
 2. Ouvrir le projet dans Remix IDE.
 3. Déployer le contrat sur le réseau de test SepoliaETH.
 
